@@ -1,0 +1,232 @@
+{
+    "experience": [
+        {
+            "id": 1,
+            "company": "Zar Media Group",
+            "time": "12/2024 - Present",
+            "title": "Co-Founder & Software Engineer",
+            "webURL": "https://zarmediagroup.com",
+            "description": "Leading all software architecture, infrastructure, and engineering decisions, ensuring that every platform delivered is reliable, high-performing, and built to grow alongside the clients' businesses."
+        },
+        {
+            "id": 2,
+            "company": "Loop",
+            "time": "04/2024 - 12/2024",
+            "title": "Software Engineer",
+            "webURL": "https://www.looptaxi.co.za/",
+            "description": "Refined database performance, reducing query latency by optimizing schema and indexing. Authored technical documentation to align team understanding and support onboarding. Contributed to mapping logic for NFC tap-to-pay terminals, improving transaction reliability for Loop's ecosystem."
+        },
+        {
+            "id": 3,
+            "company": "LC Studio",
+            "time": "03/2024 - 04/2024",
+            "title": "Technical Intern",
+            "webURL": "https://lcstudio.co.za/",
+            "description": "Contributed to client-facing software projects in a fast-paced agile environment. Applied full-stack skills in real-world settings, including version control and collaboative coding. Gained hands-on experience in cybersecurity through labs on HTTPS, encryption, and digital threats. Completed certifications to strengthen knowledge in various programming languages, cloud services and OS fundementals."
+        },
+        {
+            "id": 4,
+            "company": "Solo's Cloud Distributions",
+            "time": "03/2023 - 09/2023",
+            "title": "Data Analyst",
+            "webURL": "https://www.facebook.com/solosclouddistro/",
+            "description": "Analyzed quarterly business reports, executive pitch decks, and historical KPI data to uncover trends, forecast performance, and support strategic decision-making. Automated data collection and reporting workflows, enabling leadership teams to monitor key metrics, identify growth opportunities, and make data-driven business decisions with greater speed and accuracy."
+        }, 
+        {
+            "id": 5,
+            "company": "Adnaan Klein's Motor Repairs",
+            "time": "02/2022 - 01/2023",
+            "title": "Motor Technician", 
+            "webURL": "NULL",
+            "description": "Diagnosed and repaired a wide range of mechanical and electrical issues in various vehicle makes and models. Performed routine maintenance tasks such as oil changes, brake inspections, and tire rotations to ensure optimal vehicle performance. Collaborated with customers to understand their concerns, provided accurate estimates, and delivered high-quality service to build trust and satisfaction."
+        },
+        {
+            "id": 6,
+            "company": "Toyota Rondebosch East",
+            "time": "08/2021 - 12/2021",
+            "title": "Motor Technician Intern",
+            "webURL": "https://www.cfaomobility.co.za/toyota/find-a-dealer/rondebosch-east/",
+            "description": "Assisted senior technicians in diagnosing and repairing mechanical and electrical issues in Toyota vehicles. Gained hands-on experience with routine maintenance tasks. Developed a strong understanding of automotive systems and components while adhering to safety protocols and quality standards."
+        },
+        {
+            "id": 7,
+            "company": "Mayfair Real Estate",
+            "time": "03/2019 - 06/2019",
+            "title": "Administrative Assistant Intern",
+            "webURL": "https://mayfairgroup.co.za/",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "institution": "Cape Peninsula University of Technology",
+            "time": "2027 - 2029",
+            "qualification": "Diploma in Information Technology, Application Development"
+        },
+        {
+            "id": 2,
+            "institution": "Life Choices Academy",
+            "time":"2023 - 2024",
+            "qualification": "Full Stack Web Development Bootcamp"
+        },
+        {
+            "id": 3,
+            "institution": "Athlone Electrical Skills Development Programme - (MerSETA)",
+            "time": "2021 - 2023",
+            "qualification": "Mechanical Engineering - NQF Level 3"
+        },
+        {
+            "id": 4,
+            "institution": "Livingstone High School",
+            "time": "2016 - 2020",
+            "qualification": "National Senior Certificate"
+        }
+    ],
+    "certifications": [
+        {
+            "id": 1,
+            "name": "LC Studio - Agile Methodologies",
+            "badgeURL": "https://iili.io/JiWHxiF.png"
+        },
+        {
+            "id": 2,
+            "name": "Operating Systems Fundamentals",
+            "badgeURL": "https://iili.io/JihY6Sn.png"
+        },
+        {
+            "id": 3,
+            "name": "Cybersecurity Essentials",
+            "badgeURL": "https://iili.io/JihcD37.png"
+        },
+        {
+            "id": 4,
+            "name": "Ethical Hacking Essentials",
+            "badgeURL": "https://iili.io/d9T38bf.png"
+        },
+        {
+            "id": 5,
+            "name": "Python Programming Essentials",
+            "badgeURL": "https://iili.io/CTTdys1.th.png"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "name": "Zar Media Group",
+            "description": "Developed and deployed the ZAR Media Group corporate website, focusing on responsive UI, performance optimization, SEO, and scalable content management.",
+            "tech": ["Next.js", "TailwindCSS", "PHP"],
+            "webURL": "https://zarmediagroup.com",
+            "imageURL": "https://iili.io/CThc8Jt.th.jpg",
+            "githubURL": "https://github.com/zarmediagroup"
+        },
+        {
+            "id": 2,
+            "name": "Integrity Architecture",
+            "description": "Governance and workflow platform that focuses on controls for organizations, compliance processes, logistics, property transactions, legal workflows, accounting approvals, recruitment, and other multi-party processes.",
+            "tech": ["Next.js", "TailwindCSS", "Node.js", "PostgreSQL", "TypeScript"],
+            "webURL": "https://integrityarchitecture.co.za",
+            "imageURL": "https://iili.io/CTNqWgf.th.jpg",
+            "githubURL": "https://github.com/Project-IA-101"
+        },
+        {
+            "id": 3,
+            "name": "Modulux",
+            "description": "Modulux South Africa is a modular construction company that designs and builds prefabricated homes and structures in South Africa.",
+            "tech": ["Next.js", "TailwindCSS", "PHP"],
+            "webURL": "https://modulux.co.za",
+            "imageURL": "https://iili.io/CTNwbDv.th.jpg",
+            "githubURL": "https://github.com/zarmediagroup/Modulux"
+        },
+        {
+            "id": 4,
+            "name": "A-Level Business Consultants",
+            "description": "A Level Business Consultants (ABC INC) is a South African accounting, tax, and business advisory firm that positions itself as a professional financial compliance partner for SMEs, entrepreneurs, and individuals.",
+            "tech": ["Next.js", "TailwindCSS", "PHP", "PostgreSQL", "TypeScript"],
+            "webURL": "https://www.alevelbusinessconsultants.co.za/",
+            "imageURL": "https://iili.io/CTO0AKJ.th.jpg",
+            "githubURL": "https://github.com/zarmediagroup/A-Level-Business-Consultants-Inc"
+        },
+        {
+            "id": 5,
+            "name": "DR Magerman",
+            "description": "DR Magerman is a South African medical practice that provides healthcare services to patients in the Western Cape region.",
+            "tech": ["Next.js", "TailwindCSS", "PHP", "TypeScript"],
+            "webURL": "https://www.drmagerman.co.za/",
+            "imageURL": "https://iili.io/CTOi2s9.th.jpg",
+            "githubURL": "https://github.com/zarmediagroup/"
+        },
+        {
+            "id": 6,
+            "name": "Medical Mal-Practice Claims",
+            "description": "Medical Mal-Practice Claims is a South African medical malpractice claims management company that provides legal and administrative support to healthcare professionals and patients.",
+            "tech": ["VueJS", "TailwindCSS", "TypeScript"],
+            "webURL": "https://medicalmalpracticeclaims.co.za/",
+            "imageURL": "https://iili.io/CTObPP2.th.jpg",
+            "githubURL": "https://github.com/zarmediagroup/medicalmalpracticeclaims"
+        },
+        {
+            "id": 7,
+            "name": "Loop Mobility",
+            "description": "The booking portal at Loop Mobility is the customer-facing reservation system for Loop Transport, a Cape Town-based mobility startup focused on digitising South Africa's minibus taxi and shuttle industry. The platform allows users to pre-book shared and private shuttle transport rather than hailing rides on demand.",
+            "tech": ["ReactJS", "Ruby", "SCSS", "Node.js", "MySQL", "TypeScript", "AWS", "Prisma"],
+            "webURL": "https://bookings.loopmobility.co.za/",
+            "imageURL": "https://iili.io/KCC74wv.th.jpg",
+            "githubURL": "https://github.com/looptransport"
+        },
+        {
+            "id": 8,
+            "name": "Loop WhatsApp Chatbot",
+            "description": "An AI-assisted WhatsApp booking and transport management platform that automates passenger onboarding, ride scheduling, route coordination, and customer support for South Africa's minibus taxi ecosystem.",
+            "tech": ["Node.js", "MySQL", "TypeScript", "AWS", "Prisma"],
+            "webURL": "https://wa.me/27620746728?text=Sign%20Up",
+            "imageURL": "https://iili.io/KCBLdtn.th.png",
+            "githubURL": "https://github.com/looptransport"
+        },
+        {
+            "id": 9,
+            "name": "Loop Tap App",
+            "description": "A mobile application that allows users to tap their bank cards on NFC-enabled Loop terminals to pay for rides, street vendors and manage their accounts. The app integrates with Loop's booking system and provides a seamless payment experience for passengers.",
+            "tech": ["React Native", "Node.js", "MySQL", "TypeScript", "AWS", "Prisma"],
+            "webURL": "https://play.google.com/store/apps/details?id=com.wizzitdigital.emv.sdk.loop&hl=en_ZA",
+            "imageURL":"https://iili.io/KCChXgj.th.jpg",
+            "githubURL": "https://github.com/looptransport"
+        },
+        {
+            "id": 10,
+            "name": "Urban Lyft",
+            "description": "A workforce mobility platform providing scheduled employee and security transport for shift-based businesses through fixed-route planning, contract management, and WhatsApp-enabled operational coordination.",
+            "tech": ["Next.js", "TailwindCSS", "PHP", "WhatsApp API", "PostgreSQL", "TypeScript"],
+            "webURL": "https://www.urbanlyft.co.za/",
+            "imageURL": "https://iili.io/CTko2VV.th.jpg",
+            "githubURL": "https://github.com/zarmediagroup"
+        },
+        {
+            "id": 11,
+            "name": "Wave Crafters",
+            "description": "E-commerce platform for surfers to buy gear and check surf conditions for areas in South Africa.",
+            "tech": ["ReactJS", "TailwindCSS", "Node.js", "PostgreSQL", "TypeScript", "Prisma"],
+            "webURL": "https://wavecrafters-za.web.app/",
+            "imageURL": "https://iili.io/qPW9wEG.th.jpg",
+            "githubURL": "https://github.com/zubairmoerat/REACT2026"
+        },
+        {
+            "id": 12,
+            "name": "Expense Tracker",
+            "description": "A simple web application that allows users to track their expenses and manage their finances.",
+            "tech": ["VueJS", "CSS"],
+            "webURL": "https://expense-tracker-rosy-ten.vercel.app/",
+            "imageURL": "https://iili.io/KCq3uGS.th.jpg",
+            "githubURL": "https://github.com/zubairmoerat/Expense_Tracker/tree/main"
+        },
+        {
+            "id": 13,
+            "name": "Weather App",
+            "description": "A simple web application that allows users to check the weather for a specific location.",
+            "tech": ["HTML", "CSS", "JavaScript"],
+            "webURL": "https://weather-app-blond-psi-76.vercel.app/",
+            "imageURL": "https://iili.io/KCqn5WG.th.jpg",
+            "githubURL": "https://github.com/zubairmoerat/Weather_App"
+        }
+    ]
+}
