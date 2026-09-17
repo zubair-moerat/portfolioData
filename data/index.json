@@ -4,25 +4,42 @@
             "id": 1,
             "company": "Zar Media Group",
             "time": "12/2024 - Present",
-            "title": "Co-Founder & Software Engineer",
+            "title": "Backend & DevOps Engineer",
             "webURL": "https://zarmediagroup.com",
-            "description": "Leading all software architecture, infrastructure, and engineering decisions, ensuring that every platform delivered is reliable, high-performing, and built to grow alongside the clients' businesses."
+            "description": [
+                "Built and deployed production web applications across 3 industry verticals (e-commerce, fintech, health), owning the full lifecycle from requirements through deployment.",
+                "Delivered 5+ third-party API integrations (including KYC, SMS, and payment services), replacing previously manual workflows with automated, reliable pipelines.",
+                "Built a cold-outreach email automation pipeline integrating a transactional email API and a serverless scripting endpoint, orchestrated via a Node.js/TypeScript cron job; debugged SMTP authentication and TLS issues against a self-hosted mail server.",
+                "Hardened the development workflow with ESLint (flat config) + TypeScript, Husky pre-commit hooks, and Winston structured logging, standardising code-quality checks across projects.",
+                "Authored internal handover documentation adopted as the team standard, cutting developer onboarding time on client projects."
+            ]
         },
         {
             "id": 2,
             "company": "Loop",
             "time": "04/2024 - 12/2024",
-            "title": "Software Engineer",
+            "title": "Backend Engineer",
             "webURL": "https://www.looptaxi.co.za/",
-            "description": "Refined database performance, reducing query latency by optimizing schema and indexing. Authored technical documentation to align team understanding and support onboarding. Contributed to mapping logic for NFC tap-to-pay terminals, improving transaction reliability for Loop's ecosystem."
+            "description": [
+                "Built and maintained TypeScript REST APIs powering a real-money payment processing platform, handling wallet top-ups, peer transfers, and tap-to-pay terminal transactions at production scale.",
+                "Diagnosed and resolved query bottlenecks using Prisma ORM query analysis, delivering a measurable reduction in average API response latency across high frequency transaction endpoints.",
+                "Engineered an admin portal backend with granular role-based access control (RBAC) serving 30+ internal users, with zero reported privilege-escalation incidents post-launch.",
+                "Implemented tap-to-pay terminal and wallet mapping logic, enabling a new hardware payment channel and expanding platform reach into point-of-sale environments.",
+                "Presented system architecture updates and sprint outcomes to non-technical stakeholders, bridging engineering and business communication across the organisation."
+            ]
         },
         {
             "id": 3,
             "company": "LC Studio",
-            "time": "03/2024 - 04/2024",
-            "title": "Technical Intern",
+            "time": "10/2023 - 04/2024",
+            "title": "Junior Developer",
             "webURL": "https://lcstudio.co.za/",
-            "description": "Contributed to client-facing software projects in a fast-paced agile environment. Applied full-stack skills in real-world settings, including version control and collaboative coding. Gained hands-on experience in cybersecurity through labs on HTTPS, encryption, and digital threats. Completed certifications to strengthen knowledge in various programming languages, cloud services and OS fundementals."
+            "description": [
+                "Contributed to client-facing software projects in a fast-paced agile environment.",
+                "Applied full-stack skills in real-world settings, including version control and collaboative coding.", 
+                "Gained hands-on experience in cybersecurity through labs on HTTPS, encryption, and digital threats.", 
+                "Completed certifications to strengthen knowledge in various programming languages, cloud services and OS fundementals."
+            ]
         },
         {
             "id": 4,
@@ -30,31 +47,12 @@
             "time": "03/2023 - 09/2023",
             "title": "Data Analyst",
             "webURL": "https://www.facebook.com/solosclouddistro/",
-            "description": "Analyzed quarterly business reports, executive pitch decks, and historical KPI data to uncover trends, forecast performance, and support strategic decision-making. Automated data collection and reporting workflows, enabling leadership teams to monitor key metrics, identify growth opportunities, and make data-driven business decisions with greater speed and accuracy."
-        }, 
-        {
-            "id": 5,
-            "company": "Adnaan Klein's Motor Repairs",
-            "time": "02/2022 - 01/2023",
-            "title": "Motor Technician", 
-            "webURL": "NULL",
-            "description": "Diagnosed and repaired a wide range of mechanical and electrical issues in various vehicle makes and models. Performed routine maintenance tasks such as oil changes, brake inspections, and tire rotations to ensure optimal vehicle performance. Collaborated with customers to understand their concerns, provided accurate estimates, and delivered high-quality service to build trust and satisfaction."
-        },
-        {
-            "id": 6,
-            "company": "Toyota Rondebosch East",
-            "time": "08/2021 - 12/2021",
-            "title": "Motor Technician Intern",
-            "webURL": "https://www.cfaomobility.co.za/toyota/find-a-dealer/rondebosch-east/",
-            "description": "Assisted senior technicians in diagnosing and repairing mechanical and electrical issues in Toyota vehicles. Gained hands-on experience with routine maintenance tasks. Developed a strong understanding of automotive systems and components while adhering to safety protocols and quality standards."
-        },
-        {
-            "id": 7,
-            "company": "Mayfair Real Estate",
-            "time": "03/2019 - 06/2019",
-            "title": "Administrative Assistant Intern",
-            "webURL": "https://mayfairgroup.co.za/",
-            "description": ""
+            "description": [
+                "Coordinated cross-functional order processing between logistics and operations teams, tracking order data to identify fulfillment bottlenecks and improve turnaround efficiency.",
+                "Analyzed client requirements and service data to develop and deliver data-driven sales presentations, translating logistics performance metrics into actionable insights for prospective clients.",
+                "Partnered with operations, logistics and finance teams to consolidate service-delivery data, using it to resolve customer issues and support informed decision making across departments.",
+                "Evaluated pricing structures and market/service-cost data to negotiate competitive contract terms, balancing margin analysis with client with client retention to secure agreements."
+            ]
         }
     ],
     "education": [
