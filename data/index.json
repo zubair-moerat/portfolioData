@@ -89,21 +89,16 @@
         },
         {
             "id": 2,
-            "name": "Operating Systems Fundamentals",
-            "badgeURL": "https://iili.io/JihY6Sn.png"
-        },
-        {
-            "id": 3,
             "name": "Cybersecurity Essentials",
             "badgeURL": "https://iili.io/JihcD37.png"
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Ethical Hacking Essentials",
             "badgeURL": "https://iili.io/d9T38bf.png"
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Python Programming Essentials",
             "badgeURL": "https://iili.io/CTTdys1.th.png"
         }
