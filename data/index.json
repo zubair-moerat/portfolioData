@@ -178,39 +178,12 @@
         },
         {
             "id": 9,
-            "name": "Loop Tap App",
-            "description": "A mobile app letting users tap their bank cards on NFC-enabled Loop terminals to pay for rides and street vendors.",
-            "tech": ["React Native", "Node.js", "MySQL", "TypeScript", "AWS", "Prisma"],
-            "webURL": "https://play.google.com/store/apps/details?id=com.wizzitdigital.emv.sdk.loop&hl=en_ZA",
-            "imageURL":"https://iili.io/KCChXgj.th.jpg",
-            "githubURL": "https://github.com/looptransport"
-        },
-        {
-            "id": 10,
             "name": "Urban Lyft",
             "description": "A workforce mobility platform delivering scheduled employee and security transport through route planning and WhatsApp-enabled coordination.",
             "tech": ["Next.js", "TailwindCSS", "PHP", "WhatsApp API", "PostgreSQL", "TypeScript"],
             "webURL": "https://www.urbanlyft.co.za/",
             "imageURL": "https://iili.io/CTko2VV.th.jpg",
             "githubURL": "https://github.com/zarmediagroup"
-        },
-        {
-            "id": 11,
-            "name": "Wave Crafters",
-            "description": "An e-commerce platform for surfers to buy gear and check surf conditions across South Africa.",
-            "tech": ["ReactJS", "TailwindCSS", "Node.js", "PostgreSQL", "TypeScript", "Prisma"],
-            "webURL": "https://wavecrafters-za.web.app/",
-            "imageURL": "https://iili.io/qPW9wEG.th.jpg",
-            "githubURL": "https://github.com/zubairmoerat/REACT2026"
-        },
-        {
-            "id": 12,
-            "name": "Weather App",
-            "description": "A simple web app that lets users check the weather for a specific location.",
-            "tech": ["HTML", "CSS", "JavaScript"],
-            "webURL": "https://weather-app-blond-psi-76.vercel.app/",
-            "imageURL": "https://iili.io/KCqn5WG.th.jpg",
-            "githubURL": "https://github.com/zubairmoerat/Weather_App"
         }
     ]
 }
